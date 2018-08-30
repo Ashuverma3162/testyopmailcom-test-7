@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT testyopmailcom_test_7.wsgi:application
